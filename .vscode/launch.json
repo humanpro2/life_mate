@@ -2,11 +2,11 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Spring Boot-DemoApplication<demo>",
+            "name": "Spring Boot-GetawayPrjtApplication<getaway_prjt>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
-            "mainClass": "com.lifemate.demo.DemoApplication",
-            "projectName": "demo",
+            "mainClass": "com.lifemate.getaway.GetawayPrjtApplication",
+            "projectName": "getaway_prjt",
             "args": "",
             "envFile": "${workspaceFolder}/.env"
         }
