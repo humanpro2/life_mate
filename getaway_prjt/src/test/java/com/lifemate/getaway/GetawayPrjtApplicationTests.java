@@ -1,10 +1,10 @@
-package com.lifemate.demo;
+package com.lifemate.getaway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class GetawayPrjtApplicationTests {
 
 	@Test
 	void contextLoads() {
